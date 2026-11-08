@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "mujoco_playground",
+  "versions": [
+    {
+      "commit": "24a071343e380eb739a053650a9d12bf530cc92c",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:33:52.497463+00:00"
+    }
+  ]
+}
